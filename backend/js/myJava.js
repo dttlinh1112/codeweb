@@ -1,0 +1,1 @@
+$(".noti_admin").delay(5000).slideUp();
